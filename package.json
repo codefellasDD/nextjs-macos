@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-starter-pack-js",
+  "name": "nextjs-macos",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "classnames": "^2.3.2",
     "eslint": "8.43.0",
     "eslint-config-next": "13.4.7",
     "next": "13.4.7",
